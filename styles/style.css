@@ -1,7 +1,7 @@
 html {
   font-size: 10px;
   font-family: "Playfair Display", serif;
-  background-color: #111111;
+  background-color: black;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
   margin: 50px auto;
   border: 5px solid #f3f4ec;
   border-radius: 20px;
-  background-color: #1a1a1a;
+  background-color: #111a1a;
 }
 
 h1 {
