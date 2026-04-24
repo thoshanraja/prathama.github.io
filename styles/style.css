@@ -1,0 +1,36 @@
+html {
+  font-size: 10px;
+  font-family: "Playfair Display", serif;
+  background-color: #111111;
+}
+
+body {
+  width: 1000px;
+  padding: 0 40px 40px 40px;
+  margin: 50px auto;
+  border: 5px solid #f3f4ec;
+  border-radius: 20px;
+  background-color: #1a1a1a;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: #f3f4ec;
+  margin: 0;
+  padding: 35px 0;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 49%;
+}
+
+p,
+li {
+  color: #f3f4ec;
+  font-size: 25px;
+  text-align: justify;
+}
