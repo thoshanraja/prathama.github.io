@@ -43,8 +43,8 @@ button {
   padding: 10px 20px;
   font-size: 20px;
   color: #f3f4ec;
-  background-color: #111a1a;
-  border: 2px solid #23c72e;
+  background-color: #23c72e;
+  border: 2px solid #ecf4ed;
   border-radius: 5px;
   cursor: pointer;
 }
